@@ -1,0 +1,8 @@
+{
+  "name": "restaurants_with_pundit",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "3",
+    "jquery": "^3.3.1"
+  }
+}
